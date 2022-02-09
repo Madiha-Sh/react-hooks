@@ -1,12 +1,12 @@
-import React from 'react';
-import Code from './hooks/1-useState/useState-counter';
+import React from "react";
+import Code from "./hooks/react-router/setup";
 
 function App() {
   return (
-    <div className='container'>
+    <div className="container">
       <Code />
     </div>
-  )
+  );
 }
 
-export default App;
+export default App; 
